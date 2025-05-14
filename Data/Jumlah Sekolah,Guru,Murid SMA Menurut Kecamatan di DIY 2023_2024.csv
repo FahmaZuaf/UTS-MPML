@@ -1,0 +1,79 @@
+Kabupaten,Kecamatan,Jumlah Sekolah SMA (Negeri),Jumlah Sekolah SMA (Swasta),Jumlah Sekolah SMA (Negeri+Swasta),Jumlah Guru SMA (Negeri),Jumlah Guru SMA (Swasta),Jumlah Guru SMA (Negeri+Swasta),Jumlah Murid SMA (Negeri),Jumlah Murid SMA (Swasta),Jumlah Murid SMA (Negeri+Swasta)
+Sleman,Moyudan,-,1,1,-,18,18,-,287,287
+Sleman,Minggir,1,-,1,23,-,23,432,-,432
+Sleman,Seyegan,1,-,1,52,-,52,966,-,966
+Sleman,Godean,1,-,1,35,-,35,638,-,638
+Sleman,Gamping,1,2,3,27,21,48,429,167,596
+Sleman,Mlati,1,7,8,30,80,110,427,728,1155
+Sleman,Depok,1,8,9,36,152,188,644,2483,3127
+Sleman,Berbah,-,2,2,-,12,12,-,66,66
+Sleman,Prambanan,1,4,5,37,83,120,755,1840,2595
+Sleman,Kalasan,1,4,5,46,44,90,755,222,977
+Sleman,Ngemplak,1,2,3,27,32,59,430,237,667
+Sleman,Ngaglik,2,1,3,78,12,90,1391,127,1518
+Sleman,Sleman,2,2,4,67,16,83,1181,47,1228
+Sleman,Tempel,1,1,2,26,4,30,419,42,461
+Sleman,Turi,1,-,1,28,-,28,424,-,424
+Sleman,Pakem,1,3,4,31,26,57,535,150,685
+Sleman,Cangkringan,1,1,2,27,12,39,423,72,495
+Kulon Progo,Temon,1,-,1,30,-,30,428,-,428
+Kulon Progo,Wates,2,3,5,83,44,127,1294,391,1685
+Kulon Progo,Panjatan,-,-,-,-,-,-,-,-,-
+Kulon Progo,Galur,1,1,2,25,4,29,417,5,422
+Kulon Progo,Lendah,1,1,2,36,6,42,639,26,665
+Kulon Progo,Sentolo,1,-,1,32,-,32,539,-,539
+Kulon Progo,Pengasih,1,-,1,41,-,41,648,-,648
+Kulon Progo,Kokap,1,-,1,20,-,20,152,-,152
+Kulon Progo,Girimulyo,1,-,1,22,-,22,314,-,314
+Kulon Progo,Nanggulan,-,1,1,-,11,11,-,39,39
+Kulon Progo,Kalibawang,1,-,1,28,-,28,424,-,424
+Kulon Progo,Samigaluh,1,-,1,17,-,17,120,-,120
+Bantul,Srandakan,1,-,1,26,-,26,427,-,427
+Bantul,Sanden,1,-,1,36,-,36,648,-,648
+Bantul,Kretek,1,-,1,26,-,26,426,-,426
+Bantul,Pundong,1,-,1,37,-,37,647,-,647
+Bantul,Bambang Lipuro,1,2,3,40,18,58,617,85,702
+Bantul,Pandak,-,-,-,-,-,-,-,-,-
+Bantul,Bantul,3,3,6,137,34,171,2467,400,2867
+Bantul,Jetis,1,-,1,51,-,51,861,-,861
+Bantul,Imogiri,1,1,2,35,15,50,646,165,811
+Bantul,Dlingo,1,-,1,30,-,30,530,-,530
+Bantul,Pleret,1,1,2,32,4,36,535,200,735
+Bantul,Piyungan,1,1,2,33,10,43,533,36,569
+Bantul,Banguntapan,2,1,3,81,7,88,1496,41,1537
+Bantul,Sewon,1,3,4,60,53,113,1071,421,1492
+Bantul,Kasihan,1,3,4,46,22,68,858,201,1059
+Bantul,Pajangan,1,-,1,31,-,31,532,-,532
+Bantul,Sedayu,1,3,4,54,55,109,959,710,1669
+Gunung Kidul,Panggang,1,-,1,28,-,28,526,-,526
+Gunung Kidul,Purwosari,-,-,-,-,-,-,-,-,-
+Gunung Kidul,Paliyan,-,-,-,-,-,-,-,-,-
+Gunung Kidul,Saptosari,-,-,-,-,-,-,-,-,-
+Gunung Kidul,Tepus,-,-,-,-,-,-,-,-,-
+Gunung Kidul,Tanjungsari,1,-,1,31,-,31,588,-,588
+Gunung Kidul,Rongkop,1,-,1,27,-,27,383,-,383
+Gunung Kidul,Girisubo,-,-,-,-,-,-,-,-,-
+Gunung Kidul,Semanu,1,-,1,25,-,25,460,-,460
+Gunung Kidul,Ponjong,-,4,4,-,44,44,-,379,379
+Gunung Kidul,Karangmojo,1,1,2,37,8,45,748,69,817
+Gunung Kidul,Wonosari,2,3,5,92,33,125,1508,263,1771
+Gunung Kidul,Playen,2,2,4,73,10,83,1269,74,1343
+Gunung Kidul,Patuk,1,-,1,30,-,30,498,-,498
+Gunung Kidul,Gedangsari,-,-,-,-,-,-,-,-,-
+Gunung Kidul,Nglipar,-,1,1,-,7,7,-,128,128
+Gunung Kidul,Ngawen,-,1,1,-,10,10,-,222,222
+Gunung Kidul,Semin,1,1,2,33,5,38,646,23,669
+Kota Yogyakarta,Mantrijeron,1,2,3,50,12,62,858,68,926
+Kota Yogyakarta,Kraton,-,-,-,-,-,-,-,-,-
+Kota Yogyakarta,Mergangsan,-,3,3,-,48,48,-,511,511
+Kota Yogyakarta,Umbulharjo,1,5,6,49,82,131,858,1094,1952
+Kota Yogyakarta,Kotagede,1,3,4,51,67,118,863,866,1729
+Kota Yogyakarta,Gondokusuman,3,6,9,140,179,319,2366,2522,4888
+Kota Yogyakarta,Danurejan,-,-,-,-,-,-,-,-,-
+Kota Yogyakarta,Pakualaman,-,-,-,-,-,-,-,-,-
+Kota Yogyakarta,Gondomanan,1,3,4,38,59,97,645,678,1323
+Kota Yogyakarta,Ngampilan,-,1,1,-,20,20,-,208,208
+Kota Yogyakarta,Wirobrajan,1,2,3,52,68,120,972,989,1961
+Kota Yogyakarta,Gedong Tengen,-,1,1,-,5,5,-,17,17
+Kota Yogyakarta,Jetis,1,3,4,54,22,76,968,93,1061
+Kota Yogyakarta,Tegalrejo,2,2,4,99,82,181,1824,1290,3114
